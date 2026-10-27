@@ -1,0 +1,19 @@
+MODELO PARA COPIAR À MÃO NO PAPEL
+
++------------------------------------------------------+
+|                    Participante                      |
++------------------------------------------------------+
+| - nome: String                                       |
+| - email: String                                      |
+| - tipo_participacao: String                          |
++------------------------------------------------------+
+| + cadastrar(): void                                  |
+| + exibir_dados(): void                               |
+| + get_nome(): String                                 |
+| + get_email(): String                                |
+| + get_tipo_participacao(): String                    |
++------------------------------------------------------+
+
+Legenda:
+- atributo privado
++ método público
